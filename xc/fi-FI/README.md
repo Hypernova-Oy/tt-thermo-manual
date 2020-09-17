@@ -11,7 +11,7 @@ v 2,3+ptc
 
 **Web**: tt-thermo.fi
 
-**Email**: myynti@tt-thermo.fi
+**Email**: myynti@tuontitekniikka.com
 
 **Mob**: 040 93819011
 
@@ -338,7 +338,7 @@ optimaalista asennuksen onnistumista.
 
 **Web**: tt-thermo.fi
 
-**Email**:myynti@tt-thermo.fi
+**Email**: myynti@tuontitekniikka.com
 
 **Mob**:040 9381901
 
